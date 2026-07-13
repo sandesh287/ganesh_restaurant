@@ -20,3 +20,8 @@ const App = () => (
 );
 
 export default App;
+
+
+
+// Run:
+// npm start
