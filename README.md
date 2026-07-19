@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is built under reactjs, and is Restaurant's website. 
+This project is built under reactjs, and is Restaurant's website. Can be use by any Restaurants. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
